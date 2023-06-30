@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Stichting droomdag</title>
-    <link>https://droomdag.github.io/tags/</link>
+    <link>https://pascal2310.github.io/droomdag.github.io/tags/</link>
     <description>Recent content in Tags on Stichting droomdag</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>nl-nl</language><atom:link href="https://droomdag.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>nl-nl</language><atom:link href="https://pascal2310.github.io/droomdag.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
